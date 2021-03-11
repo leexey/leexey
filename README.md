@@ -13,7 +13,7 @@
 <br>
 <br>
 <a href=https://github.com/usfape">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Visual9999&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323" alt="Visual9999's stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=usfape&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323" alt="usfape's stats" />
 <a href="https://github.com/Visual9999?tab=repositories">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visual9999&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323">
 </h2>
