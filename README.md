@@ -1,4 +1,4 @@
-<h3 align="center">Xey#9350/h3>
+<h3 align="center">Xey#9350
 <br>
 <br>
 <h2 align="center">Languages:
