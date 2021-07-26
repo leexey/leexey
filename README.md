@@ -7,9 +7,9 @@
 <h3 align="left">Languages:</h3>
 </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social media:</h3>
 <p align="left">
-<a href="https://discord.gg/AjewG246VQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="xr4zz3rs#2767" height="30" width="40" /></a>
+<a href="xey#8458" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="xr4zz3rs#2767" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xr4zz3rs&show_icons=true&theme=dark&hide_border=true&locale=en" alt="xr4zz3rs" /></p>
