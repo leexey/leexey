@@ -11,4 +11,4 @@
 
 <h3 align="left">Social media:</h3>
 <p align="left">
-</a> <a href="https://open.spotify.com/user/4spjxfkdes4qre4gj6v003pbq?si=2f50c34b8dc64832" target="_blank"> <img src="https://www.masterambiental.com.br/wp-content/uploads/2020/07/image-gallery-spotify-logo.png" alt="csharp" width="40" height="40"/> </a>
+</a> <a href="https://open.spotify.com/user/4spjxfkdes4qre4gj6v003pbq?si=2f50c34b8dc64832" target="_blank"> <img src="https://www.masterambiental.com.br/wp-content/uploads/2020/07/image-gallery-spotify-logo.png" width="40" height="40"/> </a>
