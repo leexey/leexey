@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xr4zz3rs&label=Profile%20Views&color=d400ff&style=flat"/> </p>
 
-<p align="left"> <a href="https://pbs.twimg.com/media/EzFhb4DVIAQ3XOw.jpg"><img src="https://github-profile-trophy.vercel.app/?username=xr4zz3rs"/></a> </p>
+<p align="left"> <a href="https://pbs.twimg.com/media/EzFhb4DVIAQ3XOw.jpg"><img src="https://pbs.twimg.com/media/EzFhb4DVIAQ3XOw.jpg"/></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usfape&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/></p>
 
