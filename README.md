@@ -1,4 +1,4 @@
-# kntzy
+# Xey
 
 Meu nome é [kntzy](https://github.com/kntzy). Dá uma olhada nos meus [repositórios](https://github.com/kntzy?tab=repositories). E aqui meu [discord.bio](https://discords.com/bio/p/ekinotzy) e abaixo umas redes sociais minhas.
 
