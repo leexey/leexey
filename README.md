@@ -2,11 +2,9 @@
 
  <div>
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xeyay&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeyay&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-Meu nome é [kntzy](https://github.com/kntzy). Dá uma olhada nos meus [repositórios](https://github.com/kntzy?tab=repositories). E aqui meu [discord.bio](https://discords.com/bio/p/ekinotzy) e abaixo umas redes sociais minhas.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xeyay&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/></p>
 
