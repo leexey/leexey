@@ -4,7 +4,7 @@ Meu nome é [kntzy](https://github.com/kntzy). Dá uma olhada nos meus [reposit�
 
 <img align="right" src="https://c.tenor.com/pBN2j-8OhKEAAAAC/loona-jinsuol.gif" height="280">
 
-<img src="https://img.shields.io/badge/Ekinotzy-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/kntzy-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Ekinotzy-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" /> <img src="https://img.shields.io/badge/Ekinotzy-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+ <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> <img src="https://img.shields.io/badge/kntzy-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Ekinotzy-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" /> <img src="https://img.shields.io/badge/Ekinotzy-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 <img src="https://img.shields.io/badge/@ekinotzy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> <img src="https://img.shields.io/badge/Ekinotzy-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" />
 
 ## LANGUAGES :
