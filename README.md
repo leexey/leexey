@@ -2,7 +2,7 @@
 
 Meu nome é [kntzy](https://github.com/kntzy). Dá uma olhada nos meus [repositórios](https://github.com/kntzy?tab=repositories). E aqui meu [discord.bio](https://discords.com/bio/p/ekinotzy) e abaixo umas redes sociais minhas.
 
-<img align="right" src="https://twitter.com/i/status/1435724711665733636" height="280">
+<img align="right" src="https://tenor.com/view/jinsoul-heart-gif-11856320" height="280">
 
 <img src="https://img.shields.io/badge/Ekinotzy-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/kntzy-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Ekinotzy-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" /> <img src="https://img.shields.io/badge/Ekinotzy-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 <img src="https://img.shields.io/badge/@ekinotzy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> <img src="https://img.shields.io/badge/Ekinotzy-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" />
