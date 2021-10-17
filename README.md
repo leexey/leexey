@@ -1,6 +1,6 @@
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeyay&layout=compact&langs_count=7&theme=tokyonight"/>
-   <img align="right" src="https://i.redd.it/bc4x2750w6b61.gif" height="280">
+   <img align="right" src="https://s9.gifyu.com/images/bc4x2750w6b61.gif" height="280">
 </div>
 <div style="display: "><br>
   <img align="center" alt="" height="30" <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
