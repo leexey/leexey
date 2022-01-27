@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/xeyay">
-    <img src="https://discord.c99.nl/widget/theme-5/369958674527158293.png"/>
+    <img src="https://discord.c99.nl/widget/theme-4/369958674527158293.png"/>
      </a>
   </div>
   
