@@ -13,6 +13,5 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leexey&theme=dark&hide_border=false&&layout=compact"/>
   </a>
   <p align="center">
-    <a href="https://github.com/leexey"">
-        <img title="SarnaxLii stats" alt="https://github.com/leexey"/>
+    <a href="https://github.com/leexey">
 </p><br>
