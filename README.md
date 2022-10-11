@@ -14,5 +14,5 @@
   </a>
   <p align="center">
     <a href="https://github.com/leexey"">
-        <img title="SarnaxLii stats" alt="https://github.com/leexey"" src="https://github-readme-streak-stats.herokuapp.com/?user=leexey&theme=dark&hide_border=true&stroke=f53b3b"/>
+        <img title="SarnaxLii stats" alt="https://github.com/leexey"/>
 </p><br>
