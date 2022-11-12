@@ -4,8 +4,7 @@
     <img src="https://discord.c99.nl/widget/theme-4/369958674527158293.png"/>
      </a>
   </div>
-  
-<h2 align="center">Github stastictics</h2>
+
 
 <div align="center">
   <a href="https://github.com/leexey">
