@@ -9,11 +9,3 @@
   <p align="center">
     <a href="https://github.com/leexey">
 </p><br>
-      
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/leexey/leexey/main/1.png') no-repeat center center fixed; background-size: cover;]{x0000}$}
-
-
-
-
-
