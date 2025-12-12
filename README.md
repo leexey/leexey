@@ -27,14 +27,3 @@
     <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" height="25" />
   </p>
 
-  <p>
-    <a href="https://x.com/usfape">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="25" />
-    </a>
-    <a href="https://letterboxd.com/xey">
-      <img src="https://img.shields.io/badge/Letterboxd-000000?style=for-the-badge&logo=letterboxd&logoColor=white" height="25" />
-    </a>
-    <a href="https://instagram.com/xeyxiang">
-      <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" height="25" />
-    </a>
-  </p>
