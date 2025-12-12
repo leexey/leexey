@@ -27,3 +27,6 @@
     <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" height="25" />
   </p>
 
+  <a href="https://github.com/leexey">
+    <img src="https://xey.is-a.dev/api/contributions?username=leexey" alt="Contributions" width="100%" />
+  </a>
